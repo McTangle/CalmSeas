@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d76fc8b7e29585b418aca3f14354b14e
+timeCreated: 1492871103
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Catherine de Beaumont '
+  fontNames:
+  - 'Catherine de Beaumont '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
